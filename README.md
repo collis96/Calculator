@@ -1,1 +1,3 @@
-This is my first android project, a simple calculator application.
+# Calculator Application (Mobile, Android)
+
+This is my first dive into mobile application development.
